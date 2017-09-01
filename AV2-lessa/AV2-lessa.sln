@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FFC5191F-0A59-EAE2-F7D4-E98136B2A9BC}") = "AV2-lessa", "Assembly-CSharp.csproj", "{10F8C660-EE4E-E31D-E4A9-DED3E6711921}"
+EndProject
+Project("{FFC5191F-0A59-EAE2-F7D4-E98136B2A9BC}") = "AV2-lessa", "Assembly-CSharp-Editor.csproj", "{DDF1590A-D6B6-8435-C6AE-72C45643913B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F8C660-EE4E-E31D-E4A9-DED3E6711921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F8C660-EE4E-E31D-E4A9-DED3E6711921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F8C660-EE4E-E31D-E4A9-DED3E6711921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F8C660-EE4E-E31D-E4A9-DED3E6711921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF1590A-D6B6-8435-C6AE-72C45643913B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF1590A-D6B6-8435-C6AE-72C45643913B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF1590A-D6B6-8435-C6AE-72C45643913B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF1590A-D6B6-8435-C6AE-72C45643913B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
